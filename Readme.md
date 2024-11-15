@@ -243,7 +243,7 @@ Next.js menggunakan **Router Cache** di sisi klien untuk menyimpan data yang tel
 
 **Partial rendering** berarti hanya bagian dari halaman yang berubah yang akan dirender ulang, bukan seluruh halaman. Jika Anda berpindah antara dua rute, misalnya dari `/dashboard/settings` ke `/dashboard/analytics`, hanya bagian yang berubah (misalnya pengaturan atau analitik) yang dirender ulang, sementara elemen lain seperti sidebar atau navbar tetap ada. Ini menghemat waktu rendering dan data yang perlu ditransfer.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f44d4c92-4dfe-4def-a9d4-a1c00e79ee2a/1e5d893d-0c1e-425a-9d9d-c4398e421e80/image.png)
+![image.png](https://nextjs.org/_next/image?url=%2Fdocs%2Fdark%2Fpartial-rendering.png&w=1920&q=75&dpl=dpl_FfwnhKnxSZoRLusPG8gbu7E2TC83)
 
 Tanpa partial rendering, setiap navigasi akan menyebabkan seluruh halaman dirender ulang, yang dapat mengurangi kinerja.
 
