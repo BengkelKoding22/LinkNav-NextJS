@@ -4,10 +4,10 @@
 
 Dalam pengembangan aplikasi web, navigasi antar halaman adalah salah satu fitur utama. Next.js memudahkan navigasi dengan komponen `Link` yang dioptimalkan untuk performa. Mari kita bahas cara menggunakan komponen `Link`, pengaturan rute, serta teknik navigasi lanjutan.
 
-- [`<Link>` Components](https://www.notion.so/Linking-and-Navigating-Next-js-13ea257572738034bc48c4d80a561024?pvs=21)
-- `useRouter` [hook (ClienComponents)](https://www.notion.so/Linking-and-Navigating-Next-js-13ea257572738034bc48c4d80a561024?pvs=21)
-- [`redirect` Function (Server Components)](https://www.notion.so/Linking-and-Navigating-Next-js-13ea257572738034bc48c4d80a561024?pvs=21)
-- [Bagaimana Routing dan Navigasi Bekerja di Next.js](https://www.notion.so/Linking-and-Navigating-Next-js-13ea257572738034bc48c4d80a561024?pvs=21)
+- `<Link>` Components
+- `useRouter` hook (ClienComponents)
+- `redirect` Function (Server Components)
+- Bagaimana Routing dan Navigasi Bekerja di Next.js
 
 ## Ada berberapa cara untuk melakukan navigasi antar Route di NextJS :
 
